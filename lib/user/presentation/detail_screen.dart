@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_bloc_http_get/model/user_model.dart';
+import 'package:flutter_bloc_http_get/user/model/user_model.dart';
+
 
 class DetailScreen extends StatelessWidget {
   final Data userData;
